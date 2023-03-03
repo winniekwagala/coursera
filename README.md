@@ -9,4 +9,4 @@ This consists of images and Deep Learning projects that help users to acquire mo
 This project starts in index.html
 
 
-[coursera.htm](/uploads/b65a446a8ccc2ecd8f9574b13a82b36e/coursera.htm)
+![Screenshot_2023-03-03_112526](/uploads/6ef2dc73b18be6d36840c6d774d60651/Screenshot_2023-03-03_112526.png)
